@@ -1,7 +1,7 @@
 // logger.js
 
 // Esta es una función que se guardara en este módulo como info
-exports.info = (message) => {
+  exports.info = (message) => {
     console.log(`info: ${message}`)
   }
   
